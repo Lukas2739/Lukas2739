@@ -1,6 +1,6 @@
 ### Olá! Eu sou Lucas 
 
-- 🔭 I’m currently working on ...
+- 🔭 Estou a procura de trabalho atualmente
 - 🌱 Sempre estudando linguagens de programação
 - 📫 Contate-me no email: Lukas-357@hotmail.com / (11) 95639-9744 Whatsapp
 - 😄 Pronomes: ele / dele
